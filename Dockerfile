@@ -10,4 +10,4 @@ RUN git clone -b skycamp-tutorial https://github.com/skyplane-project/skyplane &
     pip install -r requirements.txt \
     && rm -rf /var/lib/apt/lists/*
 
-CMD jupyter lab --no-browser --ip "*" --allow-root --notebook-dir=/skyplane-tutorial --NotebookApp.token='' --NotebookApp.password=''
+CMD jupyter lab --no-browser --ip '*' --allow-root --notebook-dir=/skyplane-tutorial --NotebookApp.token='SkyCamp2022'
