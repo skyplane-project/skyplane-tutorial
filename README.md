@@ -8,4 +8,7 @@
 [Skyplane](https://github.com/skyplane-project/skyplane) is our new open-source tool to move huge datasets between clouds. This tutorial will help you get started. You can learn more about Skyplane from our [NSDI 2023 paper](https://arxiv.org/abs/2210.07259).
 
 
-To get started with this tutorial open the notebook and follow-along. A docker image with the pre-requires dependencies can be accessed [here](https://gallery.ecr.aws/i5z6k9k2/skyplane).
+# Running the tutorial 
+Run the notebook with `jupyter notebook`, and follow the tutorial. 
+
+A docker image with the pre-requires dependencies can be accessed [here](https://gallery.ecr.aws/i5z6k9k2/skyplane).
